@@ -1,0 +1,17 @@
+[
+	{
+		"address": "127.0.0.1",
+		"port": "1337",
+		"pubkey": "./mix1-pubkey.pem"
+	},
+	{
+		"address": "127.0.0.1",
+		"port": "1338",
+		"pubkey": "./mix2-pubkey.pem"
+	},
+	{
+		"address": "127.0.0.1",
+		"port": "1339",
+		"pubkey": "./mix3-pubkey.pem"
+	}
+]
